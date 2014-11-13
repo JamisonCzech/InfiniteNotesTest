@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+   <string name = "app_name">Infinite Notes Test</string>
+
+   <string name="action_settings">Create</string>
+
+   <!-- String definitions for backround color and text -->
+   <color name = "white">#ffffff</color>
+   <color name = "black">#000000</color>
+   <color name = "blue">#ff0010ff</color>
+
+   <!-- String definitions for NotePad -->
+   <string name="no_notes">No Notes Yet</string>
+   <string name="menu_insert">Add Note</string>
+   <string name="menu_delete">Delete Note</string>
+   <string name="title">Title</string>
+   <string name="body">Body</string>
+   <string name="confirm">Confirm</string>
+   <string name="edit_note">Edit Note</string>
+</resources>

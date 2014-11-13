@@ -1,0 +1,22 @@
+<component name="libraryTable">
+  <library name="JakeWharton-ActionBarSherlock-5a15d92">
+    <CLASSES>
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/gen" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/src" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock/test" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-fest/src/main/java" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/demos/src" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/styled/gen" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/styled/src" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/fragments/gen" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/fragments/src" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/roboguice/gen" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/roboguice/src" />
+      <root url="file://$USER_HOME$/Desktop/JakeWharton-ActionBarSherlock-5a15d92/actionbarsherlock-samples/known-bugs/src" />
+    </SOURCES>
+  </library>
+</component>
